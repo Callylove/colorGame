@@ -1,0 +1,1 @@
+export const CORRECT_GUESS_DELAY = 1000;
